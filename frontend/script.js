@@ -1,4 +1,4 @@
-const API = "http://localhost:5002/users";
+const API = "https://crud-app-690u.onrender.com";
 
 const form = document.getElementById("userForm");
 const usersDiv = document.getElementById("users");
